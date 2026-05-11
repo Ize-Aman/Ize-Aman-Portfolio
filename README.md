@@ -2,8 +2,7 @@
 
 This website showcases my projects, skills, resume, and personal profile through a clean UI.
 
-🔗 Live Demo: [ize-ama.vercel.app](https://ize-ama.vercel.app?utm_source=chatgpt.com)
-📂 Repository: [GitHub Repository](https://github.com/Ize-Aman/Ize-Aman-Portfolio?utm_source=chatgpt.com)
+🔗 Live Demo: [ize-ama.vercel.app](https://ize-aman.vercel.app)
 
 ---
 
