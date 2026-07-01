@@ -29,6 +29,15 @@ const Projects = () => {
         },
 
         {
+            image: "./DevEvents.png",
+            title: "Dev-Events",
+            description:
+                "A full-stack event management platform built with Next.js and TypeScript that enables users to browse and register for developer-focused events, with MongoDB Atlas-powered data management, an admin dashboard, image uploads, analytics integration, and a responsive interface.",
+            github: "https://github.com/Ize-Aman/dev-events",
+            deployment: "https://aman-dev-events.vercel.app/"
+        },
+
+        {
             image: "./Checkers.png",
             title: "Checkers",
             description:
@@ -37,14 +46,6 @@ const Projects = () => {
             deployment: ""
         },
 
-        {
-            image: "./Tindog.png",
-            title: "Tindog",
-            description:
-                "This project was built for learning purposes while following a web development course. It helped me understand how Bootstrap simplifies responsive design and speeds up front-end development.",
-            github: "https://github.com/Ize-Aman/Tindog",
-            deployment: "https://ize-aman.github.io/Tindog/"
-        },
         {
             image: "./Delivery.png",
             title: "Food Delivery",

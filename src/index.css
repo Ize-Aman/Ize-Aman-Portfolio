@@ -24,6 +24,22 @@
   p {
     @apply font-normal text-[19px] leading-7.5;
   }
+
+  ::-webkit-scrollbar {
+    @apply w-2;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply rounded-[100vh] bg-[#01111a8d];
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-[#2c2338] border-none rounded-full;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-[#32293d];
+  }
 }
 
 @layer components {
