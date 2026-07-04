@@ -84,8 +84,8 @@ const Projects = () => {
                     />
                     <ProjectCard
                         projects={projects[3]}
-                        isActive={activeProject === 0}
-                        onActivate={() => setActiveProject(0)}
+                        isActive={activeProject === 3}
+                        onActivate={() => setActiveProject(3)}
                     />
                 </div>
             </section>
