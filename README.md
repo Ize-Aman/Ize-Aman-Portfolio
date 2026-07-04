@@ -2,7 +2,7 @@
 
 This website showcases my projects, skills, resume, and personal profile through a clean UI.
 
-🔗 Live Demo: [ize-ama.vercel.app](https://ize-aman.vercel.app)
+🔗 Live Demo: [ize-ama.vercel.app](https://ize-Aman.is-a.dev)
 
 ---
 
