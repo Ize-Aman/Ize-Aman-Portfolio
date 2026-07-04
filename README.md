@@ -2,6 +2,8 @@
 
 This website showcases my projects, skills, resume, and personal profile through a clean UI.
 
+🔗 [Live Demo](https://ize-Aman.is-a.dev)
+
 ---
 
 ## ✨ Features
